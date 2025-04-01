@@ -1,0 +1,3 @@
+### You know what to do with this...
+
+(download, go to chrome://extensions, turn on dev mode, and drag the folder in)
